@@ -1,0 +1,14 @@
+{
+  "name": "lib-profiler",
+  "description": "Api Micro Service profiler tool",
+  "author": "Marc Blando",
+  "email": "marc.blando@engrande.com",
+  "private": true,
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "dependencies": {
+    "memwatch":             			"0.2.x",
+    "webkit-devtools-agent": 			"0.3.x",
+    "webkit-devtools-agent-frontend":	"0.0.x"
+  }
+}
