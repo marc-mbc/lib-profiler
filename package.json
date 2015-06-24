@@ -2,7 +2,7 @@
   "name": "lib-profiler",
   "description": "Api Micro Service profiler tool",
   "author": "Marc Blando",
-  "email": "marc.blando@engrande.com",
+  "email": "marc.mbc@gmail.com",
   "private": true,
   "version": "1.0.1",
   "main": "./lib/main",
