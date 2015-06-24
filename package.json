@@ -4,7 +4,7 @@
   "author": "Marc Blando",
   "email": "marc.mbc@gmail.com",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./lib/main",
   "dependencies": {
     "memwatch": "0.2.x",
